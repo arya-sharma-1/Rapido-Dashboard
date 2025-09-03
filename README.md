@@ -83,8 +83,8 @@ Track revenue trends and identify high-performing vehicle types.
 
 Detect demand-supply mismatches to improve resource allocation.
 
-Dashboard image- https://github.com/arya-sharma-1/Rapido-Dashboard/blob/main/Rapido%20Dashboard.png
-
 Measure driver and customer satisfaction vs business targets.
 
 Reduce cancellations by understanding key problem areas.
+
+Dashboard image- https://github.com/arya-sharma-1/Rapido-Dashboard/blob/main/Rapido%20Dashboard.png
